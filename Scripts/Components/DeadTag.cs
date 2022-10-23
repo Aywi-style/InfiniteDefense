@@ -1,0 +1,7 @@
+namespace Client
+{
+    struct DeadTag
+    {
+        
+    }
+}
